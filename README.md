@@ -5,27 +5,27 @@
 ## 🚀 Tech Stack & Tools  
 
 <p align="left">
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  
+
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TablePlus-FC6D26?style=for-the-badge&logo=tableplus&logoColor=white"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/T/tableplus-logo-294F26B96E-seeklogo.com.png" width="40" height="40"/>
+
   <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  
-  <!-- IDF (custom - you can replace with your own icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Israel_Defense_Forces_emblem.svg/1200px-Israel_Defense_Forces_emblem.svg.png" width="40" height="40"/>
-</p>
 
+  <!-- IDF (custom emblem) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Israel_Defense_Forces_emblem.svg" width="40" height="40"/>
+</p>
 
 ---
 
