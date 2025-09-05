@@ -24,8 +24,9 @@
   <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 
-  <!-- IDF (custom emblem) -->
+  <!-- IDF (custom emblem) 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Israel_Defense_Forces_emblem.svg" width="40" height="40"/>
+  -->
 </p>
 
 ---
