@@ -1,9 +1,8 @@
-# ----------------- Hi, i'm Shiran  --------------------
-🎯 **Frontend && Mobile Developer | React / React-Native | JavaScript Explorer**  
+# ---------------- Hi, I'm Shiran  ------------------
 ---
-![AttentionChillGIF](https://github.com/user-attachments/assets/3b44a754-f143-4ab4-bbbb-476d77f3230e)
+🎯 *Frontend && Mobile Developer | React / React-Native | JavaScript Explorer* 
 
-🎯 **Frontend && Mobile Developer | React / React-Native | JavaScript Explorer**  
+![AttentionChillGIF](https://github.com/user-attachments/assets/3b44a754-f143-4ab4-bbbb-476d77f3230e)
 
 ---
 
