@@ -1,8 +1,31 @@
-# ---------------- Hi, I'm Shiran  ------------------
+# Hi, I'm Shiran 
 ---
 🎯 *Frontend && Mobile Developer | React / React-Native | JavaScript Explorer* 
 
-![AttentionChillGIF](https://github.com/user-attachments/assets/3b44a754-f143-4ab4-bbbb-476d77f3230e)
+## 🚀 Tech Stack & Tools  
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TablePlus-FC6D26?style=for-the-badge&logo=tableplus&logoColor=white"/>
+  
+  <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  
+  <!-- IDF (custom - you can replace with your own icon) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Israel_Defense_Forces_emblem.svg/1200px-Israel_Defense_Forces_emblem.svg.png" width="40" height="40"/>
+</p>
+
 
 ---
 
