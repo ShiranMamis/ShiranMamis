@@ -1,4 +1,6 @@
-# --------------------------- Hi, i'm Shiran  ---------------------------
+# ----------------- Hi, i'm Shiran  --------------------
+🎯 **Frontend && Mobile Developer | React / React-Native | JavaScript Explorer**  
+---
 ![AttentionChillGIF](https://github.com/user-attachments/assets/3b44a754-f143-4ab4-bbbb-476d77f3230e)
 
 🎯 **Frontend && Mobile Developer | React / React-Native | JavaScript Explorer**  
@@ -18,7 +20,8 @@
 - **Frontend:** React, Redux, TailwindCSS, Bootstrap  
 - **Mobile:** React Native
 - **Design Tools:** Figma  
-- **Other Tools:** Git, GitHub, VS Code, Node.js  
+- **Other Tools:** Git, GitHub, VS Code, Node.js
+  
 ---
 
 ## 📈 What I’m Working On
@@ -38,7 +41,7 @@
 
 ---
 -->
-
+---
 ✨ *“Great code is a clean design with clear ideas.”*  
 
 <!--
