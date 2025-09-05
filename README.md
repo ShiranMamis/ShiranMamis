@@ -1,4 +1,4 @@
-#  Hi, i'm Shiran  
+# --------------------------- Hi, i'm Shiran  ---------------------------
 ![AttentionChillGIF](https://github.com/user-attachments/assets/3b44a754-f143-4ab4-bbbb-476d77f3230e)
 
 🎯 **Frontend && Mobile Developer | React / React-Native | JavaScript Explorer**  
@@ -11,12 +11,7 @@
 - 🎨 Familiar with **UI/UX design** using **Figma**  
 - 📚 Constantly learning and exploring new technologies  
 - 🎖️ Recently completed my **army service**, now fully focused on development
-- 
 ---
-
-## 🚀 Tech Stack
-- **Languages:** JavaScript (ES6+), HTML5, CSS3  
-- **Frontend:** React, Redux, TailwindCSS, Bootstrap  
 
 ## 🚀 Tech Stack
 - **Languages:** JavaScript (ES6+), HTML5, CSS3  
@@ -24,7 +19,6 @@
 - **Mobile:** React Native
 - **Design Tools:** Figma  
 - **Other Tools:** Git, GitHub, VS Code, Node.js  
-
 ---
 
 ## 📈 What I’m Working On
