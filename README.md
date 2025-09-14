@@ -20,8 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="background-color:white; padding:5px; border-radius:6px;" />
-     
+<img src="https://img.shields.io/badge/-GitHub?style=for-the-badge&logo=github&logoColor=black&color=white" alt="GitHub" />
+  
 
   <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
