@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />
  
-<img src="https://img.shields.io/badge/-GitHub?style=for-the-badge&logo=github&logoColor=black&color=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/-GitHub?style=for-the-badge&logo=github&logoColor=black&color=white" alt="GitHub" width="40" height="40" />
   
 
   <!-- Design -->
